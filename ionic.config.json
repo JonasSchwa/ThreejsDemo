@@ -1,0 +1,7 @@
+{
+  "name": "IonicThree",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
